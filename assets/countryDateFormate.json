@@ -1,0 +1,874 @@
+﻿[
+    {
+        "ISO 3166 Country Code": "sqi",
+        "ISO639-2 Country Code": "AL",
+        "Country": "Albania",
+        "Date Country Code": "sq",
+        "Language": "Albanian",
+        "Date Format": "yyyy-MM-dd"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "AE",
+        "Country": "United Arab Emirates",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "AR",
+        "Country": "Argentina",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "AU",
+        "Country": "Australia",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "deu",
+        "ISO639-2 Country Code": "AT",
+        "Country": "Austria",
+        "Date Country Code": "de",
+        "Language": "German",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "fra",
+        "ISO639-2 Country Code": "BE",
+        "Country": "Belgium",
+        "Date Country Code": "fr",
+        "Language": "French",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "nld",
+        "ISO639-2 Country Code": "BE",
+        "Country": "Belgium",
+        "Date Country Code": "nl",
+        "Language": "Dutch",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "bul",
+        "ISO639-2 Country Code": "BG",
+        "Country": "Bulgaria",
+        "Date Country Code": "bg",
+        "Language": "Bulgarian",
+        "Date Format": "yyyy-M-d"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "BH",
+        "Country": "Bahrain",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "srp",
+        "ISO639-2 Country Code": "BA",
+        "Country": "Bosnia and Herzegovina",
+        "Date Country Code": "sr",
+        "Language": "Serbian",
+        "Date Format": "yyyy-MM-dd"
+    },
+    {
+        "ISO 3166 Country Code": "bel",
+        "ISO639-2 Country Code": "BY",
+        "Country": "Belarus",
+        "Date Country Code": "be",
+        "Language": "Belarusian",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "BO",
+        "Country": "Bolivia",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd-MM-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "por",
+        "ISO639-2 Country Code": "BR",
+        "Country": "Brazil",
+        "Date Country Code": "pt",
+        "Language": "Portuguese",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "fra",
+        "ISO639-2 Country Code": "CA",
+        "Country": "Canada",
+        "Date Country Code": "fr",
+        "Language": "French",
+        "Date Format": "yyyy-MM-dd"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "CA",
+        "Country": "Canada",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "deu",
+        "ISO639-2 Country Code": "CH",
+        "Country": "Switzerland",
+        "Date Country Code": "de",
+        "Language": "German",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "fra",
+        "ISO639-2 Country Code": "CH",
+        "Country": "Switzerland",
+        "Date Country Code": "fr",
+        "Language": "French",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ita",
+        "ISO639-2 Country Code": "CH",
+        "Country": "Switzerland",
+        "Date Country Code": "it",
+        "Language": "Italian",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "CL",
+        "Country": "Chile",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd-MM-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "zho",
+        "ISO639-2 Country Code": "CN",
+        "Country": "China",
+        "Date Country Code": "zh",
+        "Language": "Chinese",
+        "Date Format": "yyyy-M-d"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "CO",
+        "Country": "Colombia",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "CR",
+        "Country": "Costa Rica",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ell",
+        "ISO639-2 Country Code": "CY",
+        "Country": "Cyprus",
+        "Date Country Code": "el",
+        "Language": "Greek",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ces",
+        "ISO639-2 Country Code": "CZ",
+        "Country": "Czech Republic",
+        "Date Country Code": "cs",
+        "Language": "Czech",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "deu",
+        "ISO639-2 Country Code": "DE",
+        "Country": "Germany",
+        "Date Country Code": "de",
+        "Language": "German",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "dan",
+        "ISO639-2 Country Code": "DK",
+        "Country": "Denmark",
+        "Date Country Code": "da",
+        "Language": "Danish",
+        "Date Format": "dd-MM-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "DO",
+        "Country": "Dominican Republic",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "MM/dd/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "DZ",
+        "Country": "Algeria",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "EC",
+        "Country": "Ecuador",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "EG",
+        "Country": "Egypt",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "ES",
+        "Country": "Spain",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "cat",
+        "ISO639-2 Country Code": "ES",
+        "Country": "Spain",
+        "Date Country Code": "ca",
+        "Language": "Catalan",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "est",
+        "ISO639-2 Country Code": "EE",
+        "Country": "Estonia",
+        "Date Country Code": "et",
+        "Language": "Estonian",
+        "Date Format": "d.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "fin",
+        "ISO639-2 Country Code": "FI",
+        "Country": "Finland",
+        "Date Country Code": "fi",
+        "Language": "Finnish",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "fra",
+        "ISO639-2 Country Code": "FR",
+        "Country": "France",
+        "Date Country Code": "fr",
+        "Language": "French",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "GB",
+        "Country": "United Kingdom",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ell",
+        "ISO639-2 Country Code": "GR",
+        "Country": "Greece",
+        "Date Country Code": "el",
+        "Language": "Greek",
+        "Date Format": "d/M/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "GT",
+        "Country": "Guatemala",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "zho",
+        "ISO639-2 Country Code": "HK",
+        "Country": "Hong Kong",
+        "Date Country Code": "zh",
+        "Language": "Chinese",
+        "Date Format": "yyyy年M月d日"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "HN",
+        "Country": "Honduras",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "MM-dd-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "hrv",
+        "ISO639-2 Country Code": "HR",
+        "Country": "Croatia",
+        "Date Country Code": "hr",
+        "Language": "Croatian",
+        "Date Format": "dd.MM.yyyy."
+    },
+    {
+        "ISO 3166 Country Code": "hun",
+        "ISO639-2 Country Code": "HU",
+        "Country": "Hungary",
+        "Date Country Code": "hu",
+        "Language": "Hungarian",
+        "Date Format": "yyyy.MM.dd."
+    },
+    {
+        "ISO 3166 Country Code": "ind",
+        "ISO639-2 Country Code": "ID",
+        "Country": "Indonesia",
+        "Date Country Code": "in",
+        "Language": "Indonesian",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "hin",
+        "ISO639-2 Country Code": "IN",
+        "Country": "India",
+        "Date Country Code": "hi",
+        "Language": "Hindi",
+        "Date Format": "३/६/१२"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "IN",
+        "Country": "India",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "d/M/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "gle",
+        "ISO639-2 Country Code": "IE",
+        "Country": "Ireland",
+        "Date Country Code": "ga",
+        "Language": "Irish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "IE",
+        "Country": "Ireland",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "IQ",
+        "Country": "Iraq",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "isl",
+        "ISO639-2 Country Code": "IS",
+        "Country": "Iceland",
+        "Date Country Code": "is",
+        "Language": "Icelandic",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "heb",
+        "ISO639-2 Country Code": "IL",
+        "Country": "Israel",
+        "Date Country Code": "iw",
+        "Language": "Hebrew",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ita",
+        "ISO639-2 Country Code": "IT",
+        "Country": "Italy",
+        "Date Country Code": "it",
+        "Language": "Italian",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "JO",
+        "Country": "Jordan",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "jpn",
+        "ISO639-2 Country Code": "JP",
+        "Country": "Japan",
+        "Date Country Code": "ja",
+        "Language": "Japanese",
+        "Date Format": "yyyy/MM/dd"
+    },
+    {
+        "ISO 3166 Country Code": "jpn",
+        "ISO639-2 Country Code": "JP",
+        "Country": "Japan",
+        "Date Country Code": "ja",
+        "Language": "Japanese",
+        "Date Format": "H24.MM.dd"
+    },
+    {
+        "ISO 3166 Country Code": "kor",
+        "ISO639-2 Country Code": "KR",
+        "Country": "South Korea",
+        "Date Country Code": "ko",
+        "Language": "Korean",
+        "Date Format": "yyyy. M. d"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "KW",
+        "Country": "Kuwait",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "LB",
+        "Country": "Lebanon",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "LY",
+        "Country": "Libya",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "lit",
+        "ISO639-2 Country Code": "LT",
+        "Country": "Lithuania",
+        "Date Country Code": "lt",
+        "Language": "Lithuanian",
+        "Date Format": "yyyy.M.d"
+    },
+    {
+        "ISO 3166 Country Code": "fra",
+        "ISO639-2 Country Code": "LU",
+        "Country": "Luxembourg",
+        "Date Country Code": "fr",
+        "Language": "French",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "deu",
+        "ISO639-2 Country Code": "LU",
+        "Country": "Luxembourg",
+        "Date Country Code": "de",
+        "Language": "German",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "lav",
+        "ISO639-2 Country Code": "LV",
+        "Country": "Latvia",
+        "Date Country Code": "lv",
+        "Language": "Latvian",
+        "Date Format": "yyyy.d.M"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "MA",
+        "Country": "Morocco",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "MX",
+        "Country": "Mexico",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "mkd",
+        "ISO639-2 Country Code": "MK",
+        "Country": "Macedonia",
+        "Date Country Code": "mk",
+        "Language": "Macedonian",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "MT",
+        "Country": "Malta",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "mlt",
+        "ISO639-2 Country Code": "MT",
+        "Country": "Malta",
+        "Date Country Code": "mt",
+        "Language": "Maltese",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "srp",
+        "ISO639-2 Country Code": "ME",
+        "Country": "Montenegro",
+        "Date Country Code": "sr",
+        "Language": "Serbian",
+        "Date Format": "d.M.yyyy."
+    },
+    {
+        "ISO 3166 Country Code": "msa",
+        "ISO639-2 Country Code": "MY",
+        "Country": "Malaysia",
+        "Date Country Code": "ms",
+        "Language": "Malay",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "NI",
+        "Country": "Nicaragua",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "MM-dd-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "nld",
+        "ISO639-2 Country Code": "NL",
+        "Country": "Netherlands",
+        "Date Country Code": "nl",
+        "Language": "Dutch",
+        "Date Format": "d-M-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "nor",
+        "ISO639-2 Country Code": "NO",
+        "Country": "Norway",
+        "Date Country Code": "no",
+        "Language": "Norwegian",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "nor",
+        "ISO639-2 Country Code": "NO",
+        "Country": "Norway",
+        "Date Country Code": "no",
+        "Language": "Norwegian",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "NZ",
+        "Country": "New Zealand",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "d/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "OM",
+        "Country": "Oman",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "PA",
+        "Country": "Panama",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "MM/dd/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "PE",
+        "Country": "Peru",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "PH",
+        "Country": "Philippines",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "M/d/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "pol",
+        "ISO639-2 Country Code": "PL",
+        "Country": "Poland",
+        "Date Country Code": "pl",
+        "Language": "Polish",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "PR",
+        "Country": "Puerto Rico",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "MM-dd-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "por",
+        "ISO639-2 Country Code": "PT",
+        "Country": "Portugal",
+        "Date Country Code": "pt",
+        "Language": "Portuguese",
+        "Date Format": "dd-MM-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "PY",
+        "Country": "Paraguay",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "QA",
+        "Country": "Qatar",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ron",
+        "ISO639-2 Country Code": "RO",
+        "Country": "Romania",
+        "Date Country Code": "ro",
+        "Language": "Romanian",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "rus",
+        "ISO639-2 Country Code": "RU",
+        "Country": "Russia",
+        "Date Country Code": "ru",
+        "Language": "Russian",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "SA",
+        "Country": "Saudi Arabia",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "srp",
+        "ISO639-2 Country Code": "CS",
+        "Country": "Serbia and Montenegro",
+        "Date Country Code": "sr",
+        "Language": "Serbian",
+        "Date Format": "d.M.yyyy."
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "SD",
+        "Country": "Sudan",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "zho",
+        "ISO639-2 Country Code": "SG",
+        "Country": "Singapore",
+        "Date Country Code": "zh",
+        "Language": "Chinese",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "SG",
+        "Country": "Singapore",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "M/d/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "SV",
+        "Country": "El Salvador",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "MM-dd-yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "srp",
+        "ISO639-2 Country Code": "RS",
+        "Country": "Serbia",
+        "Date Country Code": "sr",
+        "Language": "Serbian",
+        "Date Format": "d.M.yyyy."
+    },
+    {
+        "ISO 3166 Country Code": "slk",
+        "ISO639-2 Country Code": "SK",
+        "Country": "Slovakia",
+        "Date Country Code": "sk",
+        "Language": "Slovak",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "slv",
+        "ISO639-2 Country Code": "SI",
+        "Country": "Slovenia",
+        "Date Country Code": "sl",
+        "Language": "Slovenian",
+        "Date Format": "d.M.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "swe",
+        "ISO639-2 Country Code": "SE",
+        "Country": "Sweden",
+        "Date Country Code": "sv",
+        "Language": "Swedish",
+        "Date Format": "yyyy-MM-dd"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "SY",
+        "Country": "Syria",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "tha",
+        "ISO639-2 Country Code": "TH",
+        "Country": "Thailand",
+        "Date Country Code": "th",
+        "Language": "Thai",
+        "Date Format": "d/M/2555"
+    },
+    {
+        "ISO 3166 Country Code": "tha",
+        "ISO639-2 Country Code": "TH",
+        "Country": "Thailand",
+        "Date Country Code": "th",
+        "Language": "Thai",
+        "Date Format": "๓/๖/๒๕๕๕"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "TN",
+        "Country": "Tunisia",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "tur",
+        "ISO639-2 Country Code": "TR",
+        "Country": "Turkey",
+        "Date Country Code": "tr",
+        "Language": "Turkish",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "zho",
+        "ISO639-2 Country Code": "TW",
+        "Country": "Taiwan",
+        "Date Country Code": "zh",
+        "Language": "Chinese",
+        "Date Format": "yyyy/M/d"
+    },
+    {
+        "ISO 3166 Country Code": "ukr",
+        "ISO639-2 Country Code": "UA",
+        "Country": "Ukraine",
+        "Date Country Code": "uk",
+        "Language": "Ukrainian",
+        "Date Format": "dd.MM.yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "UY",
+        "Country": "Uruguay",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "US",
+        "Country": "United States",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "M/d/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "US",
+        "Country": "United States",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "M/d/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "spa",
+        "ISO639-2 Country Code": "VE",
+        "Country": "Venezuela",
+        "Date Country Code": "es",
+        "Language": "Spanish",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "vie",
+        "ISO639-2 Country Code": "VN",
+        "Country": "Vietnam",
+        "Date Country Code": "vi",
+        "Language": "Vietnamese",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "ara",
+        "ISO639-2 Country Code": "YE",
+        "Country": "Yemen",
+        "Date Country Code": "ar",
+        "Language": "Arabic",
+        "Date Format": "dd/MM/yyyy"
+    },
+    {
+        "ISO 3166 Country Code": "eng",
+        "ISO639-2 Country Code": "ZA",
+        "Country": "South Africa",
+        "Date Country Code": "en",
+        "Language": "English",
+        "Date Format": "yyyy/MM/dd"
+    }
+]

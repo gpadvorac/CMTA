@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171470114920",
+    "project_id": "cmta-271ac",
+    "storage_bucket": "cmta-271ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171470114920:android:4b414492e562c6baadabdd",
+        "android_client_info": {
+          "package_name": "com.app.cmta_field_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171470114920-e8nji1uo42s8a92u8abeo20pk0kp4994.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAD0jzLLsTHAQLLNqzm7ZQ3uSX9W0qjf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171470114920-e8nji1uo42s8a92u8abeo20pk0kp4994.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
